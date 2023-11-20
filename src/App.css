@@ -1,0 +1,7 @@
+.navbar{
+    background-color: var(--bg_clr);
+    color: var(--txt_clr);
+}
+.hero{
+    color: var(--txt_clr);
+}

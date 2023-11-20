@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+:root{
+    --bg_clr:#1d232a;
+    --txt_clr:white;
+
+}
+[data-theme="dark"]{
+    --bg_clr:white;
+    --txt_clr:black;
+}
+
+.container-nav{
+    @apply container mx-auto max-w-4xl
+}
+.navbar{
+    @apply container px-1
+}
