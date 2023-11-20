@@ -1,6 +1,6 @@
 # React + Vite
 # GO LIVE :
-https://chat-app-arshad.vercel.app/
+https://zippy-cranachan-fb7dee.netlify.app
 ![Screenshot (41)](https://github.com/Arshad-ashuu/chat-app/assets/111066886/b179533d-9459-444e-afaf-fda5ee11e13f)
 ![Screenshot (39)](https://github.com/Arshad-ashuu/chat-app/assets/111066886/f19a10f6-c60f-44ee-bf6f-2e99ba56d391)
 ![Screenshot (40)](https://github.com/Arshad-ashuu/chat-app/assets/111066886/563026ad-4b9b-4c50-9341-92ce3d58c608)
